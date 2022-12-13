@@ -1,6 +1,6 @@
 ---
 layout: post
-title: final project
+title: Final project
 author: Chen
 category: [Lecture]
 tags: [jekyll, ai]
