@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Capstone project
-author: [Richard Kuo]
+title: final project
+author: Chen
 category: [Lecture]
 tags: [jekyll, ai]
 ---
